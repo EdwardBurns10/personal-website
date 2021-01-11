@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/personal-website/static/css/main.1cb60551.chunk.css",
+    "main.js": "/personal-website/static/js/main.3d2743d4.chunk.js",
+    "main.js.map": "/personal-website/static/js/main.3d2743d4.chunk.js.map",
+    "runtime-main.js": "/personal-website/static/js/runtime-main.2c04dec3.js",
+    "runtime-main.js.map": "/personal-website/static/js/runtime-main.2c04dec3.js.map",
+    "static/css/2.7e603905.chunk.css": "/personal-website/static/css/2.7e603905.chunk.css",
+    "static/js/2.9121653c.chunk.js": "/personal-website/static/js/2.9121653c.chunk.js",
+    "static/js/2.9121653c.chunk.js.map": "/personal-website/static/js/2.9121653c.chunk.js.map",
+    "static/js/3.b4e241e3.chunk.js": "/personal-website/static/js/3.b4e241e3.chunk.js",
+    "static/js/3.b4e241e3.chunk.js.map": "/personal-website/static/js/3.b4e241e3.chunk.js.map",
+    "index.html": "/personal-website/index.html",
+    "static/css/2.7e603905.chunk.css.map": "/personal-website/static/css/2.7e603905.chunk.css.map",
+    "static/css/main.1cb60551.chunk.css.map": "/personal-website/static/css/main.1cb60551.chunk.css.map",
+    "static/js/2.9121653c.chunk.js.LICENSE.txt": "/personal-website/static/js/2.9121653c.chunk.js.LICENSE.txt",
+    "static/media/20_Questions.260b3216.png": "/personal-website/static/media/20_Questions.260b3216.png",
+    "static/media/City-of-Ottawa logo.5e877102.jpg": "/personal-website/static/media/City-of-Ottawa logo.5e877102.jpg",
+    "static/media/EDBurns Resume Jan 2021 copy.9adb418c.pdf": "/personal-website/static/media/EDBurns Resume Jan 2021 copy.9adb418c.pdf",
+    "static/media/database.47f653e1.svg": "/personal-website/static/media/database.47f653e1.svg",
+    "static/media/icons8-css3.fc99ec9a.svg": "/personal-website/static/media/icons8-css3.fc99ec9a.svg",
+    "static/media/icons8-html-5.37178c0a.svg": "/personal-website/static/media/icons8-html-5.37178c0a.svg",
+    "static/media/icons8-java.66158fe3.svg": "/personal-website/static/media/icons8-java.66158fe3.svg",
+    "static/media/icons8-javascript.a6fb71ba.svg": "/personal-website/static/media/icons8-javascript.a6fb71ba.svg",
+    "static/media/icons8-python.8e57dfba.svg": "/personal-website/static/media/icons8-python.8e57dfba.svg",
+    "static/media/icons8-react.7a6a156a.svg": "/personal-website/static/media/icons8-react.7a6a156a.svg",
+    "static/media/icons8-ruby-programming-language.f21f0308.svg": "/personal-website/static/media/icons8-ruby-programming-language.f21f0308.svg",
+    "static/media/logo.6ce24c58.svg": "/personal-website/static/media/logo.6ce24c58.svg",
+    "static/media/index.css": "/personal-website/static/media/open-sans-condensed-latin-700.b2da74db.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2c04dec3.js",
+    "static/css/2.7e603905.chunk.css",
+    "static/js/2.9121653c.chunk.js",
+    "static/css/main.1cb60551.chunk.css",
+    "static/js/main.3d2743d4.chunk.js"
+  ]
+}
