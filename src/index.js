@@ -3,10 +3,20 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
+import Appbar from './Components/Appbar';
+
+import {BrowserRouter} from "react-router-dom";
+
+import {createMuiTheme, ThemeProvider} from "@material-ui/core/styles";
+
 
 ReactDOM.render(
   <React.StrictMode>
-    <App />
+      <BrowserRouter>
+
+         <App/>
+
+      </BrowserRouter>
   </React.StrictMode>,
   document.getElementById('root')
 );
